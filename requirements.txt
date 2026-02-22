@@ -2,5 +2,4 @@ streamlit==1.29.0
 numpy==1.23.5
 pillow
 scikit-learn
-embeddings.pkl
-filenames.pkl
+
